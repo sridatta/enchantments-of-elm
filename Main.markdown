@@ -138,4 +138,4 @@ main = lift2 display Window.dimensions <| lift renderState gameState
 Let us enjoy the fruits of our labor. Click here or enjoy this very
 visually impressive screen capture.
 
-Or visit the [live demo](/elm_part1.html).
+Or visit the [live demo](http://sridattalabs.com/part1.elm.html).
